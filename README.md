@@ -11,7 +11,7 @@ International Cybersecurity and Digital Forensics Academy (ICDFA) · Individual 
 |---|---|
 | Student name | Francisca Umejesi |
 | Student ID | 2025/GCR/12816 |
-| Official email | [ENTER OFFICIAL ICDFA EMAIL] |
+| Official email | gcr2512816@students.icdfa.edu.ng |
 | Role adopted | Incident Response Lead, Northbridge Skills Institute (fictional) |
 | Word count | 11,384 words (body text and tables, excluding references and declaration) |
 | Full Word version | [`submission/GRC205_IRP_Assignment_2025_GCR_12816.docx`](submission/GRC205_IRP_Assignment_2025_GCR_12816.docx) |
